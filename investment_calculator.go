@@ -6,10 +6,9 @@ import (
 ) 
 
 func main () {
-	var investmentAmount float64 = 1000
-	var expectedReturnRate = 5.5
-	var years float64 = 10
+	var investmentAmount, years float64 = 1000, 10
+	expectedReturnRate := 5.5 // we removed the var and replaced it with := for type inference we can do this only when we are initializing the variable without using var keyword
 
-	var futureValue = investmentAmount * math.Pow((1 + expectedReturnRate /100) , years)
+	futureValue := investmentAmount * math.Pow((1 + expectedReturnRate /100) , years)
 	fmt.Println("Future Value of Investment: ", futureValue) // the ln after println is to print the output to the console in new line
 }  
