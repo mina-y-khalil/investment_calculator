@@ -32,3 +32,11 @@ Follow the prompts in your terminal to enter the investment amount, return rate,
 ---
 
 Use this calculator to plan smarter investments with inflation in mind! 📈📉
+
+---
+
+## 🌐 Connect with Me
+
+Let’s connect and share ideas!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mina%20Y.%20Khalil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mina-y-khalil/)
